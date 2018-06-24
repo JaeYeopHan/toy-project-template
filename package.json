@@ -1,0 +1,27 @@
+{
+  "name": "toy-project-template",
+  "version": "1.0.0",
+  "description": "The template repository used by ['generator-toy-project'](https://github.com/JaeYeopHan/generator-toy-project). Each branch of this repository has its own template.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaeYeopHan/toy-project-template.git"
+  },
+  "keywords": [
+    "scaffolding",
+    "template",
+    "generator"
+  ],
+  "author": {
+    "name": "JaeYeopHan",
+    "email": "ljyhanll@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaeYeopHan/toy-project-template/issues"
+  },
+  "homepage": "https://github.com/JaeYeopHan/toy-project-template#readme"
+}
